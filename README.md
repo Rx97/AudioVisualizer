@@ -15,8 +15,8 @@ It basically has two colors and will linearly interporlate between the two given
 
 A material instance exists where the user can freely change and play around with the two colors they'd like as well as the emissive brightness of the material.
 
-Example Video (Non-Shuffled Cube Array): https://drive.google.com/file/d/1X-ZsfVnBRIVngxKNvNGLA8tDrCIDss1k/view?usp=sharing
+Example Video (Non-Shuffled Cube Array): https://drive.google.com/file/d/1gYj9aqmTJvbksIx0K-XV-NeInbEfOy_G/view?usp=sharing
 
-Example Video 2 (Shuffled Cube Array):   https://drive.google.com/file/d/18B_Ft2OQfaTIXeoxwxPvtJTTG60C9hcR/view?usp=sharing
+Example Video 2 (Shuffled Cube Array):   https://drive.google.com/file/d/1ilTjLiKAQIx1tbsUainJXngbxD2ulMLz/view?usp=sharing
 
 There is no packaged build of this project due to it using Unreal's built in plugin which cannot be packaged.
