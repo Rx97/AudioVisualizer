@@ -11,7 +11,7 @@ For every in game second, an array of frequency spectrums are refreshed by the p
 When using the grid's cube array as is, the visualizer will look more similar to that of a standard visualizer and a waveform, but if the cube array is shuffled, it will yield more unfamiliar results in that of which may be more interesting.
 
 An emissive material is being used with the cubes in the visualizer.
-It basically has two colors and will linearly interporlate between the two given colors depending on a cube's given Z scalar.
+It basically has two colors and will linearly interporlate between the two given colors and depending on a cube's given Z scalar, will have different alpha values as well.
 
 A material instance exists where the user can freely change and play around with the two colors they'd like as well as the emissive brightness of the material.
 
